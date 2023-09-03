@@ -16,12 +16,6 @@
 ###
 
 <div align="center">
-    [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/ccampa896)
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ccampa896.ccampa896&"  />
 </div>
 
