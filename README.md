@@ -29,7 +29,7 @@
 
 ###
 
-<p align="justify">Atualmente 1º Tenente da Polícia Militar do Estado de São Paulo. Estudante dos cursos de Bacharelado de Engenharia de Software e Superior de Tecnologia em Ciência de Dados e Análise de Comportamento, pela UniCesumar. Entusiasta de tecnologias web e Ciência e Análise de Dados, pela One Bit Code, EBAC, Alura e Digital Innovation One. Conhecimentos em HTML, CSS, JavaScript, TypeScript, Git e GitHub, SQL (MySQL), Python, PHP, Ruby e R.</p>
+<p align="justify">Atualmente Capitão da Polícia Militar do Estado de São Paulo. Estudante dos cursos de Bacharelado de Ciência da Computação (UNINTER) e MBA em Ciência de Dados, Analytics e IA (FIA Labdata). Entusiasta de tecnologias web e Ciência e Análise de Dados.</p>
 
 <p>💻️ Habilidades:</p>
 
@@ -37,20 +37,18 @@
     <li>⭕️ Modelagem de dados</li>
     <li>⭕️ Linguagem R</li>
     <li>⭕️ Ruby</li>
-    <li>⭕️ PHP</li>
     <li>⭕️ Python</li>
     <li>⭕️ JavaScript</li>
     <li>⭕️ TypeScript</li>
-    <li>⭕️ SQL (MySQL)</li>
+    <li>⭕️ PostgreSQL</li>
     <li>⭕️ Soluções analíticas</li>
     <li>⭕️ Estrutura de dados, algoritmos e arquitetura de sistemas</li>
     <li>⭕️ Princípios de trabalho ágeis</li>
     <li>⭕️ Métodos quantitativos de matemática e estatística</li>
     <li>⭕️ Orientação a objetos e qualidade de códigos</li>
-    <li>⭕️ HTML e CSS</li>
 </ul>
 
-<p align="justify">Por anos Comandante de Pelotão de Força Tática e Instrutor de Defesa Pessoal. Atualmente, desempenho função como chefe de Inteligência Estratégica e assessoramento do Comando da Instituição para auxiliar a tomada de decisão, desde 2019-2020, e posterior de fevereiro de 2023 até o presente momento. Esta função utiliza conceitos de Business Intelligence para auxiliar a tomada de decisão dos Comandantes baseada em dados!<br><br>"É UM ERRO BÁSICO TEORIZAR ANTES DE TER OS DADOS." - Sir Arthur Conan Doyle (1859 - 1930)</p>
+<p align="justify">Atualmente, desempenho função como chefe de Seção de Polícia Judiciária Militar e Disciplina. Por anos Comandante de Pelotão de Força Tática, Instrutor de Defesa Pessoal e chefe de Inteligência Estratégica e assessoramento do Comando da Instituição para auxiliar a tomada de decisão, (2019-2021, 2023-2025), função que utiliza conceitos de Business Intelligence para auxiliar a tomada de decisão dos Comandantes baseada em dados!<br><br>"É UM ERRO BÁSICO TEORIZAR ANTES DE TER OS DADOS." - Sir Arthur Conan Doyle (1859 - 1930)</p>
 
 ###
 
@@ -73,15 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
